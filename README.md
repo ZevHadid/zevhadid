@@ -50,7 +50,7 @@ A health monitoring system with predictive pill stock management using linear re
 - **Tech Stack:** Python, SQL, Machine Learning
 - **Status:** Ongoing 🔄
 
-### 💻 [Ziv](https://github.com/ZevHadid/ZevLang)
+### 💻 [Ziv](https://github.com/ZevHadid/Ziv)
 A custom interpreted programming language written in C++.
 - **Tech Stack:** C++, Compiler Design
 - **Status:** In Progress 🛠️
