@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FASTAPI](https://img.shields.io/badge/-FASTAPI-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<br>
 ![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
