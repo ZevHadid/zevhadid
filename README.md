@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Zev Hadid 
 
-![Profile Banner](blob:https://web.whatsapp.com/09ec9cfe-a128-4ad1-8e4a-8f45cc87c14e)
+![Profile Banner](blob:https://github.com/ZevHadid/zevhadid/blob/main/image_2024-12-10_210742050.png)
 
 Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and passionate developer. 🚀
 
