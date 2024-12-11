@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![GO](https://img.shields.io/badge/-GO-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br>
 ![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -54,14 +55,6 @@ A custom interpreted programming language written in C++.
 
 ---
 
-## 🌟 Fun Facts
-
-- 💤 I get enough sleep.
-- 💢 I enjoy making fun of programmers who only code in high level interpreted languages.
-- 🚀 I originally wanted to be a physicist.
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zev-hadid-s-a513b3298/)
@@ -69,4 +62,4 @@ A custom interpreted programming language written in C++.
 
 ---
 
-_"Coding is the closest thing we have to magic."_ ✨
+_"ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV ZEV"_
