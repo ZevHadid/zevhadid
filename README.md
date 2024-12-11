@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![GO](https://img.shields.io/badge/-GO-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![GO](https://img.shields.io/badge/-GOLANG-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br>
 ![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
