@@ -36,10 +36,7 @@ Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and
 ## 🔥 My GitHub Stats
 
 <a href="https://github.com/ZevHadid">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ZevHadid&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/ZevHadid">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZevHadid&layout=compact&langs_count=8&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZevHadid&layout=compact&langs_count=8&theme=radical&hide=Jupyter%20Notebook" />
 </a>
 
 ---
