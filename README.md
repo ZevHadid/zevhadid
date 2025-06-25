@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and
 💡 Languages I love:
 - C++ for speed and control.
 - Python for versatility.
-- SQL for backend power.
+- Go for the same reason I learned C++ and Python.
 
 🧠 What I’m learning:
 - Machine Learning 🤖
@@ -43,15 +43,10 @@ Welcome to my GitHub profile! I'm a **C++ enthusiast**, self-driven learner, and
 
 ## 💼 Featured Projects
 
-### 🏥 [Sehat Tanggap](https://github.com/ZevHadid/Sehat_Tanggap)
-A health monitoring system with predictive pill stock management using linear regression.
-- **Tech Stack:** Python, SQL, Machine Learning
-- **Status:** Ongoing 🔄
-
 ### 💻 [Ziv](https://github.com/ZevHadid/Ziv)
 A custom interpreted programming language written in C++.
 - **Tech Stack:** C++, Compiler Design
-- **Status:** In Progress 🛠️
+- **Status:** In Progress (Currently postponed)
 
 ---
 
