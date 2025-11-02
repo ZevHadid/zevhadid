@@ -54,7 +54,7 @@ A custom interpreted programming language written in C++.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zev-hadid-s-a513b3298/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zevhadid@gmail.com)
-[![CV](https://img.shields.io/badge/-CV-8B0000?style=flat-square&logo=google-docs&logoColor=white)](YOUR_CV_LINK_HERE)
+[![CV](https://img.shields.io/badge/-CV-8B0000?style=flat-square&logo=google-docs&logoColor=white)](zevhadid-cv.vercel.app)
 
 ---
 
